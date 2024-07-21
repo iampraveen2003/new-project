@@ -1,0 +1,251 @@
+body{
+    font-family: "Roboto", sans-serif;
+}
+
+
+.firstmenu{
+    display: flex;
+    
+} 
+ hr{
+    border-bottom: dotted 1px;
+    margin-top: 40px;
+}
+
+    
+header img{
+    width: 150px;
+    margin-left: 15%;
+    margin-top: 10px;
+}
+header{
+    margin-top: 20px;
+    
+
+}
+.firstmenu ul{
+    display: flex;
+    margin-top: 20px;
+    gap: 40px;
+    margin-left: 220px;
+    list-style: none;
+    
+}
+.changes{
+    color: brown;
+}
+.leftpic{
+    background-image: url(left-banner-image.jpg);
+    height: 90vh;
+    width: 50%;
+}
+.big-box{
+    margin-top: 50px;
+    display: flex;
+}
+.inside-content{
+    padding-top: 280px;
+    padding-left: 60px;
+    color: white;
+}
+.inside-content button{
+border: solid 1px  white;
+margin-top: 10px;
+} 
+
+.inside-content h1{
+    font-size: 50px;
+}
+.inside-box{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto;
+    gap: 30px;
+    margin-left: 20px;
+
+}
+.big-box{
+    display: flex;
+
+}
+.box{
+    width: 300px;
+    color: white;
+    text-align: center;
+    align-content: center;
+   
+}
+#box1{
+background-image: url(baner-right-image-01.jpg);
+background-position: center;
+background-size: cover;
+}
+#box2{
+background-image: url(baner-right-image-02.jpg);
+background-position: center;
+background-size: cover;
+}
+#box3{
+background-image: url(baner-right-image-03.jpg);
+background-position: center;
+background-size: cover;
+}
+#box4{
+background-image: url(baner-right-image-04.jpg);
+background-position: center;
+background-size: cover;
+}
+.small-content{
+margin-left: 92px;
+margin-top: 30px;
+}
+.main-pic{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    gap: 20px;
+}
+.small-content2{
+    margin-top: 150px;
+    margin-left: 92px;
+}
+.main-pic2{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    gap: 20px;
+}
+.small-content3{
+    margin-top:150px ;
+    margin-left:92px ;
+}
+.main-pic3{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    gap: 20px;
+}
+.paragrap{
+
+    
+}
+.heading{
+ display: flex;
+ margin-top: 90px;
+ justify-content: center;
+ gap: 8%;
+ font-size:19px;
+
+}
+.heading h1{
+    font-size: 2em;
+}
+.heading button{
+    margin-top: 20px;
+}
+.heading p{
+    margin-top: 20px;
+}
+.heading h4{
+    margin-top: 20px;
+}
+.right-pic{
+    display: grid;
+    grid-template-columns: auto auto ;
+    grid-template-rows: auto auto ;
+    gap: 20px;
+    }
+.pic{
+    width: 200px;
+    text-align: center;
+    align-content: center;
+
+}
+
+#pic1{
+background-color: aquamarine;
+}
+#pic2{
+background-image: url(explore-image-01.jpg);
+background-position: center;
+background-size: cover;
+}
+#pic3{
+background-image: url(explore-image-02.jpg);
+background-position: center;
+background-size: cover;
+}
+#pic4{
+background-color: aquamarine;
+}
+.small-content4{
+    margin-top: 70px;
+    margin-left: 86px ;
+}
+.bottom-pic{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.last-content{
+display: flex;
+margin-top: 100px;
+justify-content: center;
+gap: 12%;
+
+}
+.last-content p{
+
+    color: brown;
+}
+input{
+    margin-top: 20px;
+}
+.left-content h2{
+    font-size: 2.5em;
+
+}
+
+.right-content{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto auto;
+    gap: 20px;
+}
+.left-part img{
+margin-bottom: 10px;
+}
+.final{
+    background-color: black;
+    display: flex;
+    color: white;
+    justify-content: center;
+    gap: 50px;
+    padding-top: 20px;
+    margin-top: 30px;
+
+}
+.final p{
+    font-size: smaller;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
