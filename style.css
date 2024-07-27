@@ -8,8 +8,10 @@ body{
     
 } 
  hr{
-    border-bottom: dotted 1px;
+    border-bottom: dotted 2px grey;
     margin-top: 40px;
+    border-style: none none dotted;
+
 }
 
     
